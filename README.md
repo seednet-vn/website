@@ -2,6 +2,10 @@
 
 ![seednet](images/logo_seednet.png)
 
+![GitHub](https://img.shields.io/github/license/seednet-vn/website.svg?color=red)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/seednet-vn/website/master.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/seednet-vn/website.svg?color=yellow)
+
 
 ## Beyond production
 
