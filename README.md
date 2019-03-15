@@ -1,3 +1,3 @@
-# The SeedNET webstie
+# The SeedNET website
 
 ![seednet](images/logo_seednet.png)
