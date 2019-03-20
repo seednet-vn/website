@@ -1,6 +1,6 @@
 # Privacy Policy
 
-![seednet](./images/logo_seednet.png)
+![seednet](../images/logo_seednet.png)
 
 ## Chính sách bảo mật
 
